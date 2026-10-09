@@ -1,0 +1,11 @@
+public class Facts{
+    public static void main(String[] args) {
+        //Strings can be concatenated into one long string
+        System.out.println("My name is:" + "Nkosi Akabashorun" + "im tired");
+        
+
+        //Expected Output
+        /*
+        I have 90 pencils and 20 pens.  <---- Use concatenation
+        I 
+    }
